@@ -16,6 +16,8 @@ I'm an undergraduate student at Emory University studying Applied Mathematics & 
 <img align="left" alt="Java" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/>
 
 <br />
+<br />
+
 
 ---
 <details>
