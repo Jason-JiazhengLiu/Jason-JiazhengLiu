@@ -17,8 +17,6 @@ I'm an undergraduate student at Emory University studying Applied Mathematics & 
 
 <br />
 
-#
-
 ---
 <details>
   <summary><h3>Jason's Coding Journey 👔 </h3></summary>
