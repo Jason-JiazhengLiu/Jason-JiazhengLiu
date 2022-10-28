@@ -1,4 +1,9 @@
-### Hi there 👋
+# Jiazheng (Jason) Liu 👋
+
+**`Undergraduate Student at Emory University`**
+
+I'm an undergraduate student at Emory University studying Applied Mathematics & Statistics and Computer Science. My main interest is on machine learning and its application in quantitative finance. 
+
 
 <!--
 **Jason-JiazhengLiu/Jason-JiazhengLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
