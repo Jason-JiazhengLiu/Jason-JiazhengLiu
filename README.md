@@ -3,7 +3,7 @@
 **`Undergraduate Student at Emory University`**
 
 ### Hi there! 👋
-I'm an undergraduate student at Emory University studying Applied Mathematics & Statistics and Computer Science. My main interest is on machine learning and its application in quantitative finance. 
+I'm an undergraduate student at Emory University studying Applied Mathematics & Statistics and Computer Science. My main interest is in machine learning and its application in quantitative finance. 
 
 ---
 
