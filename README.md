@@ -27,7 +27,7 @@ DEVICON
 ---
 <details>
   <summary><h3>Jason's Coding Journey 👔 </h3></summary>
-  I started programming in high school, during which I took the AP Computer Science Exam. I fell in love with the feeling of solving problem and building things. In college, I kept pursuing computer science as my second major. Currently, my main interest is in machine learning, which combines both data science and computer science.
+  I started my journey of programming in high school, during which I took the AP Computer Science Exam. I fell in love with the feeling of solving problem and building things with code. In college, I kept pursuing computer science as my second major. Currently, my main interest is in machine learning, which combines both data science and computer science.
           
 
           
